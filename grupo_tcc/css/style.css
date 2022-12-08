@@ -1,0 +1,123 @@
+
+#app{
+    align-items: center;
+    text-align: left;
+    background-color: transparent;
+    color: white;
+    font-family: 'Inter Tight', sans-serif;
+}
+#caroucel{
+    background-color: transparent;
+}
+:root {
+    --body-bg: #738ee9,#436cf3,#3a66f6,#2857f3,#2454ff,#1b49ef,#0037ff,#002096,#002199,#0028bb;
+    --body-color: #555;
+  }
+  .dark-mode:root {
+    --body-bg: #000000,#393b41,#bac6ee,#808286,#8d909c,#393f53,#000000,#324897,#7b8bc2,#8794c4;
+    --body-color: #899095;
+  }
+.fundo{
+    background-image: linear-gradient(var(--body-bg));
+    color: var(--body-color);
+}
+#equipe{
+    background-color: transparent;
+    color: white;
+   
+}
+#text-equipe{
+    color: white;
+}
+#navs{
+    width: 100%;
+}
+#cartao{
+    color: black;
+}
+#cartao:hover{
+    box-shadow: 0 30px 45px 0 rgb(0, 17, 255), 0 6px 50px 0 rgba(38, 0, 255, 0.692);
+}
+
+#titulo{
+    margin-top: 10%;
+    text-align: left;
+}
+#tituloescrito{
+    color: rgb(7, 12, 78);
+    font-family: 'Inter Tight', sans-serif;
+    margin-top: 25%;
+}
+#footer{
+    border-top: 2px;
+    border-color: black;
+}
+#projeto{
+   
+    text-align: center;
+    color:white;
+    margin-top: 250px;
+    font-family: 'Inter Tight', sans-serif;
+}
+#colunamaquete{
+    font-family: 'Inter Tight', sans-serif;
+}
+#fotosapp{
+    align-items: center;
+}
+#foto1{
+
+    margin-bottom:50px ;
+}
+#sla1{
+    margin-top: 5%;
+} 
+#imagem{
+    opacity: 0.8;
+}
+#imagem:hover{
+    opacity: 1.0;
+    
+}
+#image_rio{
+    height: 70%;
+}
+
+#nav-text{
+    font-size: 26px;
+    color: white;
+    border: 1px;
+    border-color: white;
+}
+#link-navs{
+  color: rgb(0, 238, 255);
+}
+#bla{
+ height: 10%;   
+}
+#textos{
+    color: #fff;
+}
+#navizinha{
+    background-image: linear-gradient(#738ee9,#436cf3);
+}
+#abc{
+    margin-bottom: 10%;
+}
+#senao{
+    background-image :url(../imgs/fotos_adicionais/fundo_inicial.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+.co{
+    margin-left: 7%;
+}
+#blog{
+    color: #fff;
+}
+#popai{
+    text-align:left;
+    color: #fff;
+}
+

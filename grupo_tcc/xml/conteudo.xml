@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tudo>
+	<conteudo>
+		<titulo>
+			PROBLEMATIZAÇÃO: CABEÇAS D’ÁGUA
+		</titulo>
+		<corpo>
+			O problema que deu origem a nosso projeto foram as chamadas cabeças d’água, que são como uma enchente em rios e cachoeiras. A cabeça d’água ocorre quando uma grande quantidade de chuva cai em partes superiores de um rio. Essa chuva faz com que o nível da água do rio suba muito rápido e com muita força levando tudo o que tiver pela frente, resultando assim, em diversos acidentes. 
+			Isto ocorre com frequência no verão, época abundante em chuvas. E é justamente no verão que, locais turísticos como cachoeiras e rios, recebem diversas visitas de turistas. E os turistas são, na grande maioria, pessoas que não conhecem o local e muito menos os riscos de uma cabeça d’água.
+		</corpo>
+		<titulosobre>
+			Sobre nosso projeto
+		</titulosobre>
+		<corposobre1>
+			Nós somos a ABBY, equipe de alunos da Etec de Registro que está desenvolvendo um projeto de TCC, o Safe River. Nosso projeto visa ajudar na prevenção, manutenção e monitoramento do problema das cabeças d’água.					Nossa equipe é formada por quatro pessoas: A Ana Luisa é responsável pela documentação do projeto, tudo sobre a parte de textos é ela quem cuida. Além de fazer parte da programação do nosso aplicativo mobile.
+			Breno Garcia é responsável pela programação do site, aplicativo e pela programação do arduino. 
+			O arduino interage com qualquer ambiente por meio de hardware e software, e pode ser ligado a um computador ou a uma rede para o recebimento e envio de dados. 
+        	O segundo Breno da nossa equipe, o Breno Romão, também participou da programação do nosso site.
+        	O Iwin Longhi foi o responsável pela criação da maquete, cujo objetivo era simular o problema do nosso projeto, a cabeça d’água.
+		</corposobre1>
+		<tituloapp>
+			Aplicativo
+		</tituloapp>
+		<corpoapp>
+			O aplicativo que possui o mesmo nome que o projeto, Safe River, será conectado a um arduino e aos seus dois sensores. Os dois sensores capturam as informações sobre a quantidade de chuva que cai no local e o nível da água do rio. Eles mandam essas informações para o arduino e ele manda as mesmas para o aplicativo Safe River, que tem como objetivo avisar aos usuários quando o local está perigoso. 
+			Este aplicativo será gratuito e estará disponível para qualquer pessoa, tanto para os turistas quanto para os proprietários dos locais turísticos, como cachoeiras, rios, corredeiras... 
+			Dessa forma, qualquer pessoa com o Safe River instalado em seu celular saberá como diversos locais estão em épocas de chuvas, no verão, se a visita é possível ou não etc. 
+		</corpoapp>
+		<titulomaquete>
+			Maquete e Funcionamento
+		</titulomaquete>
+		<corpomaquete>
+			O cerne de nosso projeto é uma maquete que simula a situação de quando uma cabeça d’água atinge um rio. 
+			A nossa maquete é feita com uma placa de isopor para simular a planície do local e canos que simulam o rio, a chuva e também sustentam o isopor. Para simular a chuva, o cano central possui algumas perfurações, assim a agua da chuva cai. 
+			Embaixo da placa de isopor há os canos que sustentam a maquete e o local onde armazenamos a água. Há também outros itens como as duas bombas para fazer a água “andar” e o potenciômetro, mas isso são as partes mais técnicas do projeto
+			A parte principal da nossa maquete é o arduino e dois sensores. O arduino possui dois sensores conectados a ele, um para monitorar o nível da água dos rios e o outro para monitorar a frequência das chuvas. 
+			Ou seja, na maquete o arduino está sempre ligado junto com os dois sensores monitorando a frequência das chuvas e o nível da água dos rios.
+		</corpomaquete>
+		<tituloarduino>
+			Arduino
+		</tituloarduino>
+		<corpoarduino>
+			Para quem não conhece, o arduino é uma plataforma de prototipagem (processo de criação e fabricação de protótipos), open source (código aberto). 
+			Ele é um dispositivo que facilita a elaboração de projetos robóticos, operando como uma mente eletrônica programável, de fácil uso e com várias portas para conexões com módulos e sensores. 
+			O arduino interage com qualquer ambiente por meio de hardware e software, e pode ser ligado a um computador ou a uma rede para o recebimento e envio de dados. 
+		</corpoarduino>
+	</conteudo>
+		<postagem codigo="1">
+			<manchete>
+				Cabeça d’água em Lavrinhas
+			</manchete>
+			<noticia>		
+				O caso aconteceu por volta de 12h entre as cachoeiras do Poço Azul e cachoeira da Pedreira, local bastante frequentado por turistas em excursões. Uma forte chuva concentrada atingiu a cabeceira do rio e uma enxurrada arrastou pessoas que estavam no local.
+				De acordo com os bombeiros, três mulheres foram encontradas mortas e outras 16 foram resgatadas neste domingo (12). As vítimas são uma mulher de 65 anos que chegou a ser resgatada, mas não resistiu e morreu. E outras duas jovens, 22 e 29 anos.						A buscas no leito do rio e região foram encerradas por volta das 18h e foram retomadas na segunda-feira (13).Quem são as vítimas
+				Quatro pessoas foram encontradas mortas após a enxurrada no Rio do Braço em Lavrinhas. A identificação delas foi informada pela Polícia Militar:
+				Luciele Rodrigues Ribeiro, de 22 anos. Moradora de Pindamonhangaba, participava da excursão acompanhada da prima Patrícia Gonçalves.
+				Patrícia Agostinho Rodrigues Gonçalves, de 21 anos. A jovem é estudante de psicologia, moradora no Araretama, em Pindamonhangaba.	
+			</noticia>
+			<imagem_1 fileName="cachoeira.png">
+				cachoeira.png
+			</imagem_1>
+			<fonte>
+				https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2021/12/13/entenda-o-que-e-cabeca-dagua-fenomeno-que-causou-mortes-apos-enxurrada-em-lavrinhas.ghtml
+			</fonte>
+		</postagem>
+		<postagem codigo="2">
+			<manchete>
+				Cabeça d´água provoca três mortes no interior de São Paulo
+			</manchete>
+			<noticia>
+				Segundo o Corpo de Bombeiros as chuvas na cabeceira do Rio do Braço durante o domingo (12), elevaram rapidamente o nível da água na cachoeira do Rancho do Zé Neto.
+				Foram resgatados 16 banhistas do local de risco. Três vítimas morreram e uma segue desaparecida. As buscas pelo Corpo de Bombeiros foram retomadas na manhã desta segunda-feira (13).
+			</noticia>
+			<imagem_1 fileName="img_b.jpg">
+				img_b.jpg
+			</imagem_1>
+			<fonte>
+				https://www.correiobraziliense.com.br/brasil/2021/12/4970358-cabeca-d-agua-provoca-tres-mortes-no-interior-de-sao-paulo.html
+			</fonte>
+		</postagem>
+		<postagem codigo="3">
+			<manchete>	
+				Cabeça d'água deixa ao menos dois mortos em Capitólio, no Sul de Minas
+			</manchete>
+			<noticia>
+				De acordo com informações iniciais da corporação, pelo menos 18 pessoas foram atingidas pela força das águas por volta das 14h20. Dessas, ao menos duas morreram, segundo os bombeiros e a Coordenadoria Estadual de Defesa Civil de Minas Gerais (Cedec/MG)De acordo com a Defesa Civil, a cabeça d'água aconteceu por causa das fortes chuvas na parte superior do Rio Capivara, localizado no Eco Parque de Capitólio. 
+				O fato aconteceu na região conhecida como Cascatinha.  
+				Ao todo, foram 18 envolvidos até o momento que já foram confirmados: 16 resgatados com vida e sem lesões, além de dois óbitos ainda não identificados. Os bombeiros ainda buscam por outras duas vítimas que teriam ficado submersas, de acordo com testemunhas.
+			</noticia>
+			<imagem_1 fileName="img_c.png">
+				img_c.png
+			</imagem_1>
+			<fonte>
+				https://www.em.com.br/app/noticia/gerais/2021/01/02/interna_gerais,1225472/cabeca-d-agua-deixa-ao-menos-dois-mortos-em-capitolio-no-sul-de-minas.shtml
+			</fonte>
+	</postagem>
+</tudo>
